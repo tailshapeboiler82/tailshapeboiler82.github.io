@@ -1,0 +1,26 @@
+{
+  "name": "Телеграм Лист | 59 MTProxy с проверкой, обновлено 15:33 МСК",
+  "short_name": "Телеграм Лист",
+  "description": "Список из 59 рабочих MTProto-прокси для Telegram на Телеграм Лист: наши серверы и проверенные публичные, пинг, мгновенное подключение.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f6fb",
+  "theme_color": "#25469d",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
